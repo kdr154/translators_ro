@@ -835,6 +835,7 @@ var journalMapping = {
 	"03419479" : "!369997433!", // Blätter für württembergische Kirchengeschichte
 	"0341-9479" : "!369997433!", // Blätter für württembergische Kirchengeschichte
 	"0006-1921" : "!303578904!", // Bibliotheca Sacra
+	"0035-6573" : "!014427966!", // Rivista di storia e letteratura religiosa
 	
 	
 };
@@ -1027,6 +1028,7 @@ var issnLangMapping = {
 	"1768-9260" : "fre", // Revue d'Etudes Augustiniennes et Patristiques
 	"0039-6761" : "swe", // Svensk teologisk kvartalskrift
 	"0049-3449" : "spa", // Teología y vida
+	"0035-6573" : "ita", // Rivista di storia e letteratura religiosa
 
 
 	
@@ -1888,6 +1890,8 @@ var issnPhysicalFormMapping = {
 	"03419479" : "O", // Blätter für württembergische Kirchengeschichte
 	"0341-9479" : "O", // Blätter für württembergische Kirchengeschichte
 	"0006-1921" : "O", // Bibliotheca Sacra
+	"Australasian Catholic Record, The" : "O", //  The Australasian Catholic record
+	"0035-6573" : "A", // Rivista di storia e letteratura religiosa
 	
 	
 };
@@ -2248,6 +2252,8 @@ var issnSsgMapping = {
 	"1530-5228" : "0", // Journal for Cultural and Religious Theory
 	"08944857" : "0; 1", // The Merton annual 
 	"0894-4857" : "0; 1", // The Merton annual 
+	"0035-6573" : "0; 1", // Rivista di storia e letteratura religiosa
+
 	
 };
 
@@ -2304,6 +2310,7 @@ var issnJournalTitleMapping = {
 	"Ons Geestelijk Erf" : "!114618771!", // Ons Geestelijk Erf
 	"Studia Canonica" : "!413867323!", // Studia Canonica
 	"Journal of Coptic Studies" : "!112891217!", // Journal of Coptic Studies
+	"Australasian Catholic Record, The" : "!478317891!", //  The Australasian Catholic record
 	
 };
 
