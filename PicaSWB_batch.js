@@ -579,7 +579,7 @@ var journalMapping = {
 	"0021-2423" : "!015180689!", // Istina
 	"0021-3209" : "!015194124!", // Itinerarium
 	"1010-7215" : "!015539768!", // Lateranum
-	"0076-1508" : "!015180867!", // Lusitania sacra
+	"2182-8822" : "!507677692!", // Lusitania sacra
 	"0211-2582" : "!015202054!", // Misiones extranjeras
 	"0580-1400" : "!014852195!", // Münchener theologische Zeitschrift
 	"0031-529X" : "!025189972!", // Periodica di re canonica
@@ -828,6 +828,7 @@ var journalMapping = {
 	"0341-9479" : "!369997433!", // Blätter für württembergische Kirchengeschichte
 	"0006-1921" : "!303578904!", // Bibliotheca Sacra
 	"0035-6573" : "!014427966!", // Rivista di storia e letteratura religiosa
+	"1120-4001" : "!017945682!", // Annali di Storia dell’Esegesi
 	
 	
 };
@@ -1646,7 +1647,7 @@ var issnPhysicalFormMapping = {
 	"0021-2423" : "A", // Istina
 	"0021-3209" : "A", // Itinerarium
 	"1010-7215" : "A", // Lateranum
-	"0076-1508" : "A", // Lusitania sacra
+	"2182-8822" : "O", // Lusitania sacra
 	"0211-2582" : "A", // Misiones extranjeras
 	"0580-1400" : "A", // Münchener theologische Zeitschrift
 	"0031-529X" : "A", // Periodica di re canonica
@@ -1886,7 +1887,7 @@ var issnPhysicalFormMapping = {
 	"0006-1921" : "O", // Bibliotheca Sacra
 	"Australasian Catholic Record, The" : "O", //  The Australasian Catholic record
 	"0035-6573" : "A", // Rivista di storia e letteratura religiosa
-	
+	"1120-4001" : "A", // Annali di Storia dell’Esegesi
 	
 	
 	
