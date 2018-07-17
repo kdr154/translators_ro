@@ -1647,7 +1647,6 @@ var issnPhysicalFormMapping = {
 	"0021-2423" : "A", // Istina
 	"0021-3209" : "A", // Itinerarium
 	"1010-7215" : "A", // Lateranum
-	"2182-8822" : "O", // Lusitania sacra
 	"0211-2582" : "A", // Misiones extranjeras
 	"0580-1400" : "A", // Münchener theologische Zeitschrift
 	"0031-529X" : "A", // Periodica di re canonica
@@ -1888,6 +1887,7 @@ var issnPhysicalFormMapping = {
 	"Australasian Catholic Record, The" : "O", //  The Australasian Catholic record
 	"0035-6573" : "A", // Rivista di storia e letteratura religiosa
 	"1120-4001" : "A", // Annali di Storia dell’Esegesi
+	"2182-8822" : "O", // Lusitania Sacra
 	
 	
 	

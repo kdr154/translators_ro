@@ -12,7 +12,7 @@
 	"configOptions": {
 		"dataMode": "xml/dom"
 	},
-	"lastUpdated": "2018-01-01 22:40:00"
+	"lastUpdated": "2018-07-17 03:25:00"
 }
 
 /*
@@ -244,7 +244,7 @@ function doImport() {
 			if (address) {
 				if (addressType == "Doi" && !item.DOI) {
 					item.DOI = address;
-				} else if (addressType == "PubMedId" && item.extra.indexOf("PMID") == -1) {
+				} else if (addressType == "PubMedId" && item.extra && !item.extra.includes("PMID")) {
 					addExtraLine(item, "PMID", address);
 				} else {
 					// distinguish between local paths and internet addresses
