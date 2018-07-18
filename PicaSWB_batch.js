@@ -580,6 +580,7 @@ var journalMapping = {
 	"0021-3209" : "!015194124!", // Itinerarium
 	"1010-7215" : "!015539768!", // Lateranum
 	"2182-8822" : "!507677692!", // Lusitania sacra
+	"2182‑8822" : "!507677692!", // Lusitania Sacra
 	"0211-2582" : "!015202054!", // Misiones extranjeras
 	"0580-1400" : "!014852195!", // Münchener theologische Zeitschrift
 	"0031-529X" : "!025189972!", // Periodica di re canonica
@@ -829,6 +830,7 @@ var journalMapping = {
 	"0006-1921" : "!303578904!", // Bibliotheca Sacra
 	"0035-6573" : "!014427966!", // Rivista di storia e letteratura religiosa
 	"1120-4001" : "!017945682!", // Annali di Storia dell’Esegesi
+	"0104-0073" : "!486596168!", // Vox Scripturae
 	
 	
 };
@@ -1887,8 +1889,9 @@ var issnPhysicalFormMapping = {
 	"Australasian Catholic Record, The" : "O", //  The Australasian Catholic record
 	"0035-6573" : "A", // Rivista di storia e letteratura religiosa
 	"1120-4001" : "A", // Annali di Storia dell’Esegesi
+	"0104-0073" : "O", // Vox Scripturae,
+	"2182‑8822" : "O", // Lusitania Sacra
 	"2182-8822" : "O", // Lusitania Sacra
-	
 	
 	
 };
@@ -2311,6 +2314,7 @@ var issnJournalTitleMapping = {
 	"Studia Canonica" : "!413867323!", // Studia Canonica
 	"Journal of Coptic Studies" : "!112891217!", // Journal of Coptic Studies
 	"Australasian Catholic Record, The" : "!478317891!", //  The Australasian Catholic record
+
  
 
 };
