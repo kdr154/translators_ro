@@ -838,6 +838,7 @@ var journalMapping = {
 	"0006-1921" : "!303578904!", // Bibliotheca Sacra
 	"0035-6573" : "!014427966!", // Rivista di storia e letteratura religiosa
 	"1120-4001" : "!017945682!", // Annali di Storia dell’Esegesi
+	"0104-0073" : "!486596168!", // Vox Scripturae
 	
 	
 };
@@ -1896,6 +1897,7 @@ var issnPhysicalFormMapping = {
 	"1120-4001" : "A", // Annali di Storia dell’Esegesi
 	"2182‑8822" : "O", // Lusitania Sacra
 	"2182-8822" : "O", // Lusitania Sacra
+	"0104-0073" : "O", // Vox Scripturae
 	
 	
 };
