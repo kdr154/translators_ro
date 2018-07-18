@@ -831,6 +831,8 @@ var journalMapping = {
 	"0035-6573" : "!014427966!", // Rivista di storia e letteratura religiosa
 	"1120-4001" : "!017945682!", // Annali di Storia dell’Esegesi
 	"0104-0073" : "!486596168!", // Vox Scripturae
+	"0105 3191" : "!015178161!", // Dansk Teologisk Tidsskrift
+	"0105-3191" : "!015178161!", // Dansk Teologisk Tidsskrift
 	
 	
 };
@@ -1892,6 +1894,8 @@ var issnPhysicalFormMapping = {
 	"0104-0073" : "O", // Vox Scripturae
 	"2182‑8822" : "O", // Lusitania Sacra
 	"2182-8822" : "O", // Lusitania Sacra
+	"0105 3191" : "A", // Dansk Teologisk Tidsskrift
+	"0105-3191" : "A", // Dansk Teologisk Tidsskrift
 	
 	
 };
