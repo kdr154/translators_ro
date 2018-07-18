@@ -833,6 +833,7 @@ var journalMapping = {
 	"0104-0073" : "!486596168!", // Vox Scripturae
 	"0105 3191" : "!015178161!", // Dansk Teologisk Tidsskrift
 	"0105-3191" : "!015178161!", // Dansk Teologisk Tidsskrift
+	"0048-7988" : "!341267805!", // Revue d'Histoire de l'Eglise de France
 	
 	
 };
@@ -1896,6 +1897,7 @@ var issnPhysicalFormMapping = {
 	"2182-8822" : "O", // Lusitania Sacra
 	"0105 3191" : "A", // Dansk Teologisk Tidsskrift
 	"0105-3191" : "A", // Dansk Teologisk Tidsskrift
+	"0048-7988" : "O", // Revue d'Histoire de l'Eglise de France
 	
 	
 };
