@@ -1983,6 +1983,7 @@ var issnLicenceFieldMapping = {
 	"1363-013X" : "l", // Quaker studies
 	"2074-7705" : "l", // Verbum et ecclesia
 	"1609-9982" : "l", // Verbum et ecclesia
+	"0104-0073" : "l", // Vox Scripturae
 	
 	
 };

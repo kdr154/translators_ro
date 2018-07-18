@@ -1889,7 +1889,7 @@ var issnPhysicalFormMapping = {
 	"Australasian Catholic Record, The" : "O", //  The Australasian Catholic record
 	"0035-6573" : "A", // Rivista di storia e letteratura religiosa
 	"1120-4001" : "A", // Annali di Storia dell’Esegesi
-	"0104-0073" : "O", // Vox Scripturae,
+	"0104-0073" : "O", // Vox Scripturae
 	"2182‑8822" : "O", // Lusitania Sacra
 	"2182-8822" : "O", // Lusitania Sacra
 	
@@ -1977,6 +1977,7 @@ var issnLicenceFieldMapping = {
 	"1363-013X" : "l", // Quaker studies
 	"2074-7705" : "l", // Verbum et ecclesia
 	"1609-9982" : "l", // Verbum et ecclesia
+	"0104-0073" : "l", // Vox Scripturae
 
 	
 	
