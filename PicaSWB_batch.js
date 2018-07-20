@@ -1027,6 +1027,7 @@ var issnLangMapping = {
 	"0039-6761" : "swe", // Svensk teologisk kvartalskrift
 	"0049-3449" : "spa", // Teología y vida
 	"0035-6573" : "ita", // Rivista di storia e letteratura religiosa
+	"0104-0073" : "por", // Vox Scripturae
 
 
 
