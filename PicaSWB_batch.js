@@ -2560,12 +2560,12 @@ function doExport() {
         //Titel, erster Autor --> 4000
         var titleStatement = "";
         if (item.shortTitle == "journalArticle") {
-            titleStatement += item.shortTitle;
+           titleStatement += ZU.unescapeHTML(item.shortTitle);
             if (item.title && item.title.length > item.shortTitle.length) {
-                titleStatement += "$d" + item.title.substr(item.shortTitle.length).replace(/^\s*:\s*/,'');
+                titleStatement += "$d" + ZU.unescapeHTML(item.title.substr(item.shortTitle.length).replace(/^\s*:\s*/,''));
             }
         } else {
-            titleStatement += item.title.replace(/\s*:\s*/,'$d');
+            titleStatement += ZU.unescapeHTML(item.title.replace(/\s*:\s*/,'$d'));
         }
         //Sortierzeichen hinzufügen, vgl. https://github.com/UB-Mannheim/zotkat/files/137992/ARTIKEL.pdf
         if (item.language == "ger" || !item.language) {
