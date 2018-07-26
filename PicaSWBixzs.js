@@ -842,6 +842,7 @@ var journalMapping = {
 	"0105 3191" : "!015178161!", // Dansk Teologisk Tidsskrift
 	"0105-3191" : "!015178161!", // Dansk Teologisk Tidsskrift
 	"0048-7988" : "!341267805!", // Revue d'Histoire de l'Eglise de France
+	"2294-9321" : "!395909597!", // Judaïsme ancien
 	
 	
 };
@@ -1297,6 +1298,7 @@ var issnPhysicalFormMapping = {
 	"0253-3812" : "A", // Theology & life
 	"0211-7096" : "A", // Urgellia
 	"1344-7297" : "A", // The Japan mission journal
+	"13447297" : "A", // The Japan mission journal
 	"0030-5839" : "A", // The Orthodox word
 	"1550-0195" : "A", // Journal of Unitarian Universalist History
 	"0014-701X" : "A", // Faith and freedom
@@ -1902,6 +1904,7 @@ var issnPhysicalFormMapping = {
 	"0105 3191" : "A", // Dansk Teologisk Tidsskrift
 	"0105-3191" : "A", // Dansk Teologisk Tidsskrift
 	"0048-7988" : "O", // Revue d'Histoire de l'Eglise de France
+	"2294-9321" : "O", // Judaïsme ancien
 	
 	
 };
