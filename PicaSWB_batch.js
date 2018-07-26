@@ -539,7 +539,7 @@ var journalMapping = {
 	"0270-2533" : "!273890433!", // Trinity Seminary Review
 	"0254-4407" : "!014429802!", // Zwingliana
 	"1520-7307" : "!415645301!", // The Southern Baptist Journal of Theology
-	"2031-5929" : "!065483006!", // Annali di Scienze Religiose
+	"2031-5929" : "!337891613!", // Annali di Scienze Religiose
 	"0034-673X, 2211-4866" : "!257192638!", // Review of Religious Research
 	"0034-673X" : "!257192638!", // Review of Religious Research
 	"2211-4866" : "!257192638!", // Review of Religious Research
@@ -877,7 +877,6 @@ var languageMapping = {
 };
 
 var issnLangMapping = {
-	"2031-5929" : "eng",
 	"1010-9913" : "fre",
 	"2031-5921" : "ger",
 	"1209-9392" : "eng", 
@@ -1037,13 +1036,11 @@ var issnLangMapping = {
 };
 
 var issnVolumeMapping = {
-	"2031-5929" : "N.S.",
 	"2031-5922" : "A.S.",
 	};
 
 var issnPhysicalFormMapping = {
 	"1550-0195" : "O",
-	"2031-5929" : "A",
 	"2032-5215" : "O", // ET-Studies Online Publikation - weiter unten gleiche Zs mit "A"
 	"0021-9231" : "O", // Journal of Biblical Literature 
 	"0591-2385" : "O", // Zygon
@@ -1618,7 +1615,7 @@ var issnPhysicalFormMapping = {
 	"02702533" : "O", // Trinity Seminary Review
 	"0254-4407" : "A", // Zwingliana
 	"1520-7307" : "O", // The Southern Baptist Journal of Theology
-	"2031-5929" : "A", // Annali di Scienze Religiose
+	"2031-5929" : "O", // Annali di Scienze Religiose
 	"0034-673X, 2211-4866" : "O", // Review of Religious Research
 	"1468-5906" : "O", // Journal for the Scientific Study of Religion
 	"00218294" : "O", // Journal for the Scientific Study of Religion
