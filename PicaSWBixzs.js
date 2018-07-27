@@ -526,7 +526,7 @@ var journalMapping = {
 	"1745-5278" : "!256620571!", // Journal of Anglican Studies
 	"1467-9809" : "!095551751!", // Journal of religious history
 	"0210-2900" : "!026379554!", // Mayéutica
-	"0030-252X" : "!015178552!", // One in Christ
+	"0030-252X" : "!477958486!", // One in Christ
 	"1783-1652" : "!114618771!", // Ons Geestelijk Erf
 	"0034-1258" : "!305355643!", // Recherches de science religieuse 
 	"2055-7973, 2055-7981" : "!428283136!", // British Catholic History
@@ -1604,7 +1604,7 @@ var issnPhysicalFormMapping = {
 	"1740-3553, 1745-5278" : "O", // Journal of Anglican Studies
 	"1467-9809" : "O", // Journal of religious history
 	"0210-2900" : "A", // Mayéutica
-	"0030-252X" : "A", // One in Christ
+	"0030-252X" : "O", // One in Christ
 	"1783-1652" : "O", // Ons Geestelijk Erf
 	"0034-1258" : "O", // Recherches de science religieuse
 	"2055-7973, 2055-7981" : "O", // British Catholic 
@@ -1991,6 +1991,7 @@ var issnLicenceFieldMapping = {
 	"2074-7705" : "l", // Verbum et ecclesia
 	"1609-9982" : "l", // Verbum et ecclesia
 	"0104-0073" : "l", // Vox Scripturae
+	"0030-252X" : "l", // One in Christ
 	
 	
 };
