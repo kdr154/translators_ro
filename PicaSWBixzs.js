@@ -843,6 +843,7 @@ var journalMapping = {
 	"0105-3191" : "!015178161!", // Dansk Teologisk Tidsskrift
 	"0048-7988" : "!341267805!", // Revue d'Histoire de l'Eglise de France
 	"2294-9321" : "!395909597!", // Judaïsme ancien
+	"2034-3515" : "!382038150!", // Journal of Medieval Monastic Studies
 	
 	
 };
@@ -1905,6 +1906,7 @@ var issnPhysicalFormMapping = {
 	"0105-3191" : "A", // Dansk Teologisk Tidsskrift
 	"0048-7988" : "O", // Revue d'Histoire de l'Eglise de France
 	"2294-9321" : "O", // Judaïsme ancien
+	"2034-3515" : "O", // Journal of Medieval Monastic Studies
 	
 	
 };
