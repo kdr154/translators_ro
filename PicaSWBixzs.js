@@ -409,7 +409,7 @@ var journalMapping = {
 	"23048557" : "!380443740!", // Koers Bulletin for Christian Scholarship
 	"1088-6923" : "!060776978!", // Affirmation & Critique
 	"0007-4322" : "!01439829X!", // Bulletin de littérature ecclésiastique
-	"1155-3316" : "!023337230!", // Apocrypha
+	"1155-3316" : "!25402727X!", // Apocrypha
 	"00666785" : "!407318607!", // Archivum Historiae Pontificiae
 	"0066-6785" : "!407318607!", // Archivum Historiae Pontificiae
 	"0009-6407, 1755-2613" : "!114617899!", // Church History
@@ -1514,7 +1514,7 @@ var issnPhysicalFormMapping = {
 	"2304-8557" : "O", // Koers Bulletin for Christian Scholarship
 	"23048557" : "O", // Koers Bulletin for Christian Scholarship
 	"1088-6923" : "A", // Affirmation & Critique
-	"1155-3316" : "A", // Apocrypha
+	"1155-3316" : "O", // Apocrypha
 	"00666785" : "O", // Archivum Historiae Pontificiae
 	"0009-6407, 1755-2613" : "O", // Church History
 	"0013-9513" : "O", // Ephemerides theologicae Lovanienses
