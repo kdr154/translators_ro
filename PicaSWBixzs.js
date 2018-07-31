@@ -845,6 +845,7 @@ var journalMapping = {
 	"2294-9321" : "!395909597!", // Judaïsme ancien
 	"2034-3515" : "!382038150!", // Journal of Medieval Monastic Studies
 	"2079-7222" : "!281292809!", // Indo-Pacific Journal of Phenomenology
+	"2445-2394" : "!475690915!", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
 	
 	
 };
@@ -1909,6 +1910,7 @@ var issnPhysicalFormMapping = {
 	"2294-9321" : "O", // Judaïsme ancien
 	"2034-3515" : "O", // Journal of Medieval Monastic Studies
 	"2079-7222" : "O", // Indo-Pacific Journal of Phenomenology
+	"2445-2394" : "O", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
 	
 	
 };
@@ -1997,6 +1999,7 @@ var issnLicenceFieldMapping = {
 	"0104-0073" : "l", // Vox Scripturae
 	"0030-252X" : "l", // One in Christ
 	"2079-7222" : "l", // Indo-Pacific Journal of Phenomenology
+	"2445-2394" : "l", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
 	
 	
 };
