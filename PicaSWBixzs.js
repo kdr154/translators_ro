@@ -846,6 +846,7 @@ var journalMapping = {
 	"2034-3515" : "!382038150!", // Journal of Medieval Monastic Studies
 	"2079-7222" : "!281292809!", // Indo-Pacific Journal of Phenomenology
 	"2445-2394" : "!475690915!", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
+	"0892-5712" : "!318814188!", // Criswell Theological Review
 	
 	
 };
@@ -1911,6 +1912,7 @@ var issnPhysicalFormMapping = {
 	"2034-3515" : "O", // Journal of Medieval Monastic Studies
 	"2079-7222" : "O", // Indo-Pacific Journal of Phenomenology
 	"2445-2394" : "O", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
+	"0892-5712" : "O", // Criswell Theological Review
 	
 	
 };
