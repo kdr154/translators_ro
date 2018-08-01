@@ -852,6 +852,7 @@ var journalMapping = {
 	"0020-8582" : "!273868179!", // International review of mission
 	"15906833" : "!398101868!", // 	Hermeneutica
 	"1590-6833" : "!398101868!", //  Hermeneutica
+	"0887-1760" : "!423618555!", // Mid-America journal of theology
 	
 	
 	
@@ -1925,6 +1926,7 @@ var issnPhysicalFormMapping = {
 	"0892-5712" : "O", // Criswell Theological Review
 	"15906833" : "O", //  Hermeneutica
 	"1590-6833" : "O", //  Hermeneutica
+	"0887-1760" : "O", // Mid-America journal of theology
 	
 	
 };
