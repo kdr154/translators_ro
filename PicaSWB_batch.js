@@ -839,6 +839,9 @@ var journalMapping = {
 	"2079-7222" : "!281292809!", // Indo-Pacific Journal of Phenomenology
 	"2445-2394" : "!475690915!", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
 	"0892-5712" : "!318814188!", // Criswell Theological Review
+	"1758-6631" : "!273868179!", // International review of mission 
+	"00208582" : "!273868179!", // International review of mission
+	"0020-8582" : "!273868179!", // International review of mission
 
  
 
@@ -1365,7 +1368,9 @@ var issnPhysicalFormMapping = {
 	"0009-6407" : "O", // Church history !!pppn
 	"1755-2613" : "O", // Church history !!eppn
 	"1758-6623" : "A", // The ecumenical review !!eppn
-	"1758-6631" : "A", // International review of mission !!eppn
+	"1758-6631" : "O", // International review of mission !!eppn
+	"00208582" : "O", // International review of mission !!eppn
+	"0020-8582" : "O", // International review of mission !!eppn
 	"0021-969X" : "O", // Journal of church and state !!pppn
 	"2040-4867" : "O", // Journal of church and state !!eppn
 	"0021-969X, 2040-4867" : "O", // Journal of church and state
