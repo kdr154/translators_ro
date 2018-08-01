@@ -842,6 +842,8 @@ var journalMapping = {
 	"1758-6631" : "!273868179!", // International review of mission 
 	"00208582" : "!273868179!", // International review of mission
 	"0020-8582" : "!273868179!", // International review of mission
+	"15906833" : "!398101868!", // 	Hermeneutica
+	"1590-6833" : "!398101868!", //  Hermeneutica
 
  
 
@@ -1038,6 +1040,8 @@ var issnLangMapping = {
 	"0049-3449" : "spa", // Teología y vida
 	"0035-6573" : "ita", // Rivista di storia e letteratura religiosa
 	"0104-0073" : "por", // Vox Scripturae
+	"15906833" : "ita", //  Hermeneutica
+	"1590-6833" : "ita", //  Hermeneutica
 
 
 
@@ -1915,6 +1919,8 @@ var issnPhysicalFormMapping = {
 	"2079-7222" : "O", // Indo-Pacific Journal of Phenomenology
 	"2445-2394" : "O", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
 	"0892-5712" : "O", // Criswell Theological Review
+	"15906833" : "O", //  Hermeneutica
+	"1590-6833" : "O", //  Hermeneutica
 	
 	
 };
