@@ -855,6 +855,7 @@ var journalMapping = {
 	"0887-1760" : "!423618555!", // Mid-America journal of theology
 	"0065-7638" : "!443083517!", // Proceedings of the American Catholic Philosophical Association
 	"00657638" : "!443083517!", // Proceedings of the American Catholic Philosophical Association
+	"1771-1347" : "!354445103!", // Réforme, humanisme, renaissance
 	
 	
 	
@@ -1051,6 +1052,7 @@ var issnLangMapping = {
 	"0104-0073" : "por", // Vox Scripturae
 	"15906833" : "ita", //  Hermeneutica
 	"1590-6833" : "ita", //  Hermeneutica
+	"1771-1347" : "fre", // Réforme, humanisme, renaissance
 
 
 	
@@ -1931,6 +1933,8 @@ var issnPhysicalFormMapping = {
 	"0887-1760" : "O", // Mid-America journal of theology
 	"0065-7638" : "O", // Proceedings of the American Catholic Philosophical Association
 	"00657638" : "O", // Proceedings of the American Catholic Philosophical Association
+	"1771-1347" : "O", // Réforme, humanisme, renaissance
+	"Réforme, Humanisme, Renaissance" : "O", // Réforme, humanisme, renaissance
 	
 	
 };
@@ -2355,6 +2359,7 @@ var issnJournalTitleMapping = {
 	"Studia Canonica" : "!413867323!", // Studia Canonica
 	"Journal of Coptic Studies" : "!112891217!", // Journal of Coptic Studies
 	"Australasian Catholic Record, The" : "!478317891!", //  The Australasian Catholic record
+	"Réforme, Humanisme, Renaissance" : "!354445103!", // Réforme, humanisme, renaissance
 	
 };
 
@@ -2956,7 +2961,8 @@ function doExport() {
 			if (item.notes) {
 				for (i in item.notes) {
 					var note = item.notes[i].note.replace("<p>", "").replace("</p>", "")
-                    var notation_splits = note.split(",");
+                    var re = /\s*,\s*/;
+					var notation_splits = note.toLowerCase().split(re);
                     for (i in notation_splits) {
                         var notation = notation_splits[i]
                         var notation_ppn = notes_to_ixtheo_notation[notation];
