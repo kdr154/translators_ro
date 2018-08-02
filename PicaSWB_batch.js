@@ -845,6 +845,8 @@ var journalMapping = {
 	"15906833" : "!398101868!", // 	Hermeneutica
 	"1590-6833" : "!398101868!", //  Hermeneutica
 	"0887-1760" : "!423618555!", // Mid-America journal of theology
+	"0065-7638" : "!443083517!", // Proceedings of the American Catholic Philosophical Association
+	"00657638" : "!443083517!", // Proceedings of the American Catholic Philosophical Association
 
  
 
@@ -1923,6 +1925,8 @@ var issnPhysicalFormMapping = {
 	"15906833" : "O", //  Hermeneutica
 	"1590-6833" : "O", //  Hermeneutica
 	"0887-1760" : "O", // Mid-America journal of theology
+	"0065-7638" : "O", // Proceedings of the American Catholic Philosophical Association
+	"00657638" : "O", // Proceedings of the American Catholic Philosophical Association
 	
 	
 };
