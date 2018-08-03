@@ -737,7 +737,7 @@ var journalMapping = {
 	"0026-1238" : "!420019235!", // Methodist History
 	"10626549" : "!273885499!", // Cistercian studies quarterly
 	"1062-6549" : "!273885499!", // Cistercian studies quarterly
-	"0745-3698" : "!483608033!", // American Baptist Quarterly
+	"0745-3698" : "!015260909!", // American Baptist Quarterly
 	"03799557" : "!273889931!", // Theological review
 	"0379-9557" : "!273889931!", // Theological review
 	"0036-9764" : "!319103358!", // Scripta Theologica
