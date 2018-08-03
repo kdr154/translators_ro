@@ -860,6 +860,8 @@ var journalMapping = {
 	"22911723, 22911731" : "!429708718!", // Wesley and Methodist studies
 	"22911723" : "!429708718!", // Wesley and Methodist studies
 	"22911731" : "!429708718!", // Wesley and Methodist studies
+	"2291-1723" : "!429708718!", // Wesley and Methodist studies
+	"2291-1731" : "!429708718!", // Wesley and Methodist studies
 	
 	
 	
