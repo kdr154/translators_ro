@@ -848,6 +848,7 @@ var journalMapping = {
 	"0065-7638" : "!443083517!", // Proceedings of the American Catholic Philosophical Association
 	"00657638" : "!443083517!", // Proceedings of the American Catholic Philosophical Association
 	"1771-1347" : "!354445103!", // Réforme, humanisme, renaissance
+	"1270-2056" : "!424051311!", // Théophilyon
 
  
 
@@ -1047,6 +1048,8 @@ var issnLangMapping = {
 	"15906833" : "ita", //  Hermeneutica
 	"1590-6833" : "ita", //  Hermeneutica
 	"1771-1347" : "fre", // Réforme, humanisme, renaissance
+	"1270-2056" : "fre", // Théophilyon
+	
 
 
 
@@ -1931,6 +1934,7 @@ var issnPhysicalFormMapping = {
 	"00657638" : "O", // Proceedings of the American Catholic Philosophical Association
 	"1771-1347" : "O", // Réforme, humanisme, renaissance
 	"Réforme, Humanisme, Renaissance" : "O", // Réforme, humanisme, renaissance
+	"1270-2056" : "O", // Théophilyon
 	
 	
 };
