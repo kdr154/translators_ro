@@ -857,6 +857,9 @@ var journalMapping = {
 	"00657638" : "!443083517!", // Proceedings of the American Catholic Philosophical Association
 	"1771-1347" : "!354445103!", // Réforme, humanisme, renaissance
 	"1270-2056" : "!424051311!", // Théophilyon
+	"22911723, 22911731" : "!429708718!", // Wesley and Methodist studies
+	"22911723" : "!429708718!", // Wesley and Methodist studies
+	"22911731" : "!429708718!", // Wesley and Methodist studies
 	
 	
 	
@@ -1938,6 +1941,9 @@ var issnPhysicalFormMapping = {
 	"1771-1347" : "O", // Réforme, humanisme, renaissance
 	"Réforme, Humanisme, Renaissance" : "O", // Réforme, humanisme, renaissance
 	"1270-2056" : "O", // Théophilyon
+	"22911723, 22911731" : "O", // Wesley and Methodist studies
+	"22911723" : "O", // Wesley and Methodist studies
+	"22911731" : "O", // Wesley and Methodist studies
 	
 	
 };
