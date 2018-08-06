@@ -863,6 +863,8 @@ var journalMapping = {
 	"2291-1723" : "!429708718!", // Wesley and Methodist studies
 	"2291-1731" : "!429708718!", // Wesley and Methodist studies
 	"0066-6386" : "!254074065!", // Archiv für Liturgiewissenschaft
+	"2375-6330" : "!42864905X!", // The Asbury Journal
+	"1090-5642" : "!42864905X!", // The Asbury Journal
 	
 	
 	
@@ -1948,6 +1950,8 @@ var issnPhysicalFormMapping = {
 	"22911723" : "O", // Wesley and Methodist studies
 	"22911731" : "O", // Wesley and Methodist studies
 	"0066-6386" : "O", // Archiv für Liturgiewissenschaft
+	"2375-6330" : "O", // The Asbury Journal
+	"1090-5642" : "O", // The Asbury Journal
 	
 	
 };
@@ -2037,6 +2041,8 @@ var issnLicenceFieldMapping = {
 	"0030-252X" : "l", // One in Christ
 	"2079-7222" : "l", // Indo-Pacific Journal of Phenomenology
 	"2445-2394" : "l", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
+	"2375-6330" : "l", // The Asbury Journal
+	"1090-5642" : "l", // The Asbury Journal
 	
 	
 };
