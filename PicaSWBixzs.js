@@ -1958,6 +1958,7 @@ var issnPhysicalFormMapping = {
 	"0265-4539" : "O", // The Scottish bulletin of evangelical theology
 	"2297-6167" : "A", // Revue d'histoire du protestantisme
 	"2154-7270" : "O", // International Journal of Cultic Studies
+	"Semitica" : "O", // Semitica
 	
 	
 };
@@ -2386,6 +2387,7 @@ var issnJournalTitleMapping = {
 	"Journal of Coptic Studies" : "!112891217!", // Journal of Coptic Studies
 	"Australasian Catholic Record, The" : "!478317891!", //  The Australasian Catholic record
 	"Réforme, Humanisme, Renaissance" : "!354445103!", // Réforme, humanisme, renaissance
+	"Semitica" : "!453619584!", // Semitica
 	
 };
 
