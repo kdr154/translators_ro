@@ -865,6 +865,7 @@ var journalMapping = {
 	"0066-6386" : "!254074065!", // Archiv für Liturgiewissenschaft
 	"2375-6330" : "!42864905X!", // The Asbury Journal
 	"1090-5642" : "!42864905X!", // The Asbury Journal
+	"0265-4539" : "!422847313!", // The Scottish bulletin of evangelical theology
 	
 	
 	
@@ -1952,6 +1953,7 @@ var issnPhysicalFormMapping = {
 	"0066-6386" : "O", // Archiv für Liturgiewissenschaft
 	"2375-6330" : "O", // The Asbury Journal
 	"1090-5642" : "O", // The Asbury Journal
+	"0265-4539" : "O", // The Scottish bulletin of evangelical theology
 	
 	
 };
