@@ -854,6 +854,7 @@ var journalMapping = {
 	"22911731" : "!429708718!", // Wesley and Methodist studies
 	"2291-1723" : "!429708718!", // Wesley and Methodist studies
 	"2291-1731" : "!429708718!", // Wesley and Methodist studies
+	"0066-6386" : "!254074065!", // Archiv für Liturgiewissenschaft
 
  
 
@@ -1943,6 +1944,7 @@ var issnPhysicalFormMapping = {
 	"22911723, 22911731" : "O", // Wesley and Methodist studies
 	"22911723" : "O", // Wesley and Methodist studies
 	"22911731" : "O", // Wesley and Methodist studies
+	"0066-6386" : "O", // Archiv für Liturgiewissenschaft
 	
 	
 };
