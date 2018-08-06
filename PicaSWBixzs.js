@@ -866,6 +866,7 @@ var journalMapping = {
 	"2375-6330" : "!42864905X!", // The Asbury Journal
 	"1090-5642" : "!42864905X!", // The Asbury Journal
 	"0265-4539" : "!422847313!", // The Scottish bulletin of evangelical theology
+	"2297-6167" : "!461229730!", // Revue d'histoire du protestantisme
 	
 	
 	
@@ -1954,6 +1955,7 @@ var issnPhysicalFormMapping = {
 	"2375-6330" : "O", // The Asbury Journal
 	"1090-5642" : "O", // The Asbury Journal
 	"0265-4539" : "O", // The Scottish bulletin of evangelical theology
+	"2297-6167" : "A", // Revue d'histoire du protestantisme
 	
 	
 };
