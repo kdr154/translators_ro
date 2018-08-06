@@ -867,6 +867,7 @@ var journalMapping = {
 	"1090-5642" : "!42864905X!", // The Asbury Journal
 	"0265-4539" : "!422847313!", // The Scottish bulletin of evangelical theology
 	"2297-6167" : "!461229730!", // Revue d'histoire du protestantisme
+	"2154-7270" : "!359478492!", // International Journal of Cultic Studies
 	
 	
 	
@@ -1956,6 +1957,7 @@ var issnPhysicalFormMapping = {
 	"1090-5642" : "O", // The Asbury Journal
 	"0265-4539" : "O", // The Scottish bulletin of evangelical theology
 	"2297-6167" : "A", // Revue d'histoire du protestantisme
+	"2154-7270" : "O", // International Journal of Cultic Studies
 	
 	
 };
@@ -2324,6 +2326,7 @@ var issnSsgMapping = {
 	"0894-4857" : "0; 1", // The Merton annual 
 	"0035-6573" : "0; 1", // Rivista di storia e letteratura religiosa
 	"2079-7222" : "0", // Indo-Pacific Journal of Phenomenology
+	"2154-7270" : "0", // International Journal of Cultic Studies
 
 	
 };
