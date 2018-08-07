@@ -872,6 +872,7 @@ var journalMapping = {
 	"0039-7946" : "!306837404!", // Syria. Archéologie, art et histoire
 	"10897747" : "!273879162!", // TC: A Journal of Biblical Textual Criticism
 	"1089-7747" : "!273879162!", // TC: A Journal of Biblical Textual Criticism
+	"1050-4125" : "!095238697!", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
 	
 	
 	
@@ -1967,6 +1968,7 @@ var issnPhysicalFormMapping = {
 	"0039-7946" : "O", // Syria. Archéologie, art et histoire
 	"10897747" : "O", // TC: A Journal of Biblical Textual Criticism
 	"1089-7747" : "O", // TC: A Journal of Biblical Textual Criticism
+	"1050-4125" : "A", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
 	
 };
 
