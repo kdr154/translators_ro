@@ -868,6 +868,7 @@ var journalMapping = {
 	"0265-4539" : "!422847313!", // The Scottish bulletin of evangelical theology
 	"2297-6167" : "!461229730!", // Revue d'histoire du protestantisme
 	"2154-7270" : "!359478492!", // International Journal of Cultic Studies
+	"0030-5367" : "!424052067!", // Orientalia
 	
 	
 	
@@ -1959,6 +1960,7 @@ var issnPhysicalFormMapping = {
 	"2297-6167" : "A", // Revue d'histoire du protestantisme
 	"2154-7270" : "O", // International Journal of Cultic Studies
 	"Semitica" : "O", // Semitica
+	"0030-5367" : "O", // Orientalia
 	
 	
 };
