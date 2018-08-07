@@ -865,6 +865,7 @@ var journalMapping = {
 	"10897747" : "!273879162!", // TC: A Journal of Biblical Textual Criticism
 	"1089-7747" : "!273879162!", // TC: A Journal of Biblical Textual Criticism
 	"1050-4125" : "!095238697!", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
+	"0034-3951" : "!015198073!", // Religion and Society Print-PPN
 
  
 
@@ -1966,6 +1967,7 @@ var issnPhysicalFormMapping = {
 	"10897747" : "O", // TC: A Journal of Biblical Textual Criticism
 	"1089-7747" : "O", // TC: A Journal of Biblical Textual Criticism
 	"1050-4125" : "A", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
+	"0034-3951" : "A", // Religion and Society Print-PPN
 	
 	
 };
@@ -2338,6 +2340,7 @@ var issnSsgMapping = {
 	"0035-6573" : "0; 1", // Rivista di storia e letteratura religiosa
 	"2079-7222" : "0", // Indo-Pacific Journal of Phenomenology
 	"2154-7270" : "0", // International Journal of Cultic Studies
+	"0034-3951" : "0; 1", // Religion and Society Print-PPN
 
 	
 	
