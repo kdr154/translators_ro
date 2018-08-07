@@ -869,6 +869,9 @@ var journalMapping = {
 	"2297-6167" : "!461229730!", // Revue d'histoire du protestantisme
 	"2154-7270" : "!359478492!", // International Journal of Cultic Studies
 	"0030-5367" : "!424052067!", // Orientalia
+	"0039-7946" : "!306837404!", // Syria. Archéologie, art et histoire
+	"10897747" : "!273879162!", // TC: A Journal of Biblical Textual Criticism
+	"1089-7747" : "!273879162!", // TC: A Journal of Biblical Textual Criticism
 	
 	
 	
@@ -1961,7 +1964,9 @@ var issnPhysicalFormMapping = {
 	"2154-7270" : "O", // International Journal of Cultic Studies
 	"Semitica" : "O", // Semitica
 	"0030-5367" : "O", // Orientalia
-	
+	"0039-7946" : "O", // Syria. Archéologie, art et histoire
+	"10897747" : "O", // TC: A Journal of Biblical Textual Criticism
+	"1089-7747" : "O", // TC: A Journal of Biblical Textual Criticism
 	
 };
 
@@ -2052,6 +2057,8 @@ var issnLicenceFieldMapping = {
 	"2445-2394" : "l", // Vergentis: revista de investigación de la Cátedra Internacional conjunta Inocencio III
 	"2375-6330" : "l", // The Asbury Journal
 	"1090-5642" : "l", // The Asbury Journal
+	"10897747" : "l", // TC: A Journal of Biblical Textual Criticism
+	"1089-7747" : "l", // TC: A Journal of Biblical Textual Criticism
 	
 	
 };
