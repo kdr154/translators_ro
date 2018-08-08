@@ -1070,6 +1070,10 @@ var issnLangMapping = {
 	"1590-6833" : "ita", //  Hermeneutica
 	"1771-1347" : "fre", // Réforme, humanisme, renaissance
 	"1270-2056" : "fre", // Théophilyon
+	"07174675" : "spa", // Veritas : Revista de Filosofía y Teología
+	"0717-4675" : "spa", // Veritas : Revista de Filosofía y Teología
+	"0718-9273" : "spa", // Veritas : Revista de Filosofía y Teología
+
 	
 
 
