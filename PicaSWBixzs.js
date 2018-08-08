@@ -629,7 +629,7 @@ var journalMapping = {
 	"0044-3123" : "!014852152!", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
 	"1120-267X" : "!015202550!", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
 	"2053-6267" : "!394648986!", // The Huguenot Society Journal
-	"0340-6210" : "!1014414112!", // Luther
+	"0340-6210" : "!014414112!", // Luther
 	"0026-587X" : "!015181243!", // Miscellanea Francescana
 	"0340-6407" : "!014895242!", // Oriens Christianus
 	"0030-6487" : "!014838737!", // Ostkirchliche Studien
