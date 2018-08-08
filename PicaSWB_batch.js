@@ -2070,6 +2070,9 @@ var issnLicenceFieldMapping = {
 	"1090-5642" : "l", // The Asbury Journal
 	"10897747" : "l", // TC: A Journal of Biblical Textual Criticism
 	"1089-7747" : "l", // TC: A Journal of Biblical Textual Criticism
+	"07174675" : "l", // Veritas : Revista de Filosofía y Teología
+	"0717-4675" : "l", // Veritas : Revista de Filosofía y Teología
+	"0718-9273" : "l", // Veritas : Revista de Filosofía y Teología
 
 	
 	
