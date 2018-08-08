@@ -874,6 +874,7 @@ var journalMapping = {
 	"1089-7747" : "!273879162!", // TC: A Journal of Biblical Textual Criticism
 	"1050-4125" : "!095238697!", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
 	"0034-3951" : "!015198073!", // Religion and Society Print-PPN
+	"1947-8224" : "!307464385!", // U.S. Catholic Historian
 	
 	
 	
@@ -1971,6 +1972,7 @@ var issnPhysicalFormMapping = {
 	"1089-7747" : "O", // TC: A Journal of Biblical Textual Criticism
 	"1050-4125" : "A", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
 	"0034-3951" : "A", // Religion and Society Print-PPN
+	"1947-8224" : "O", // U.S. Catholic Historian
 	
 };
 
