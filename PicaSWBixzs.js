@@ -875,6 +875,9 @@ var journalMapping = {
 	"1050-4125" : "!095238697!", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
 	"0034-3951" : "!015198073!", // Religion and Society Print-PPN
 	"1947-8224" : "!307464385!", // U.S. Catholic Historian
+	"07174675" : "!316279331!", // Veritas : Revista de Filosofía y Teología
+	"0717-4675" : "!316279331!", // Veritas : Revista de Filosofía y Teología
+	"0718-9273" : "!316279331!", // Veritas : Revista de Filosofía y Teología
 	
 	
 	
@@ -1973,6 +1976,9 @@ var issnPhysicalFormMapping = {
 	"1050-4125" : "A", //  Christian studies a publication of the Faculty of Austin Graduate School of Theology
 	"0034-3951" : "A", // Religion and Society Print-PPN
 	"1947-8224" : "O", // U.S. Catholic Historian
+	"07174675" : "O", // Veritas : Revista de Filosofía y Teología
+	"0717-4675" : "O", // Veritas : Revista de Filosofía y Teología
+	"0718-9273" : "O", // Veritas : Revista de Filosofía y Teología
 	
 };
 
