@@ -645,7 +645,7 @@ var journalMapping = {
 	"1120-8333" : "!028039645!", // Ricerche Teologiche
 	"0049-3449" : "!28122269X!", // Teologia y vida
 	"0049-3449,  0717-6295" : "!28122269X!", // Teologia y vida
-	"1550-4891" : "!260776262!", // Cultural encounters
+	"1550-4891" : "!39441344X!", // Cultural encounters
 	"0008-7912" : "!25241747X!", // The catholic biblical quarterly !!pppn
 	"00087912" : "!25241747X!", // The catholic biblical quarterly !!pppn
 	"2295-3027" : "!015198510!", // Studia Canonica
@@ -1754,7 +1754,7 @@ var issnPhysicalFormMapping = {
 	"1120-8333" : "A", // Ricerche Teologiche
 	"0049-3449" : "O", // Teologia y vida
 	"0049-3449,  0717-6295" : "O", // Teologia y vida
-	"1550-4891" : "A", // Cultural encounters
+	"1550-4891" : "O", // Cultural encounters
 	"2295-3027" : "A", // Studia Canonica
 	"0035-2403" : "A", // Revue d'histoire et de philosophie religieuses
 	"1359-1835" : "O", // Journal of material culture
