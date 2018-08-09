@@ -862,7 +862,7 @@ var journalMapping = {
 	"22911731" : "!429708718!", // Wesley and Methodist studies
 	"2291-1723" : "!429708718!", // Wesley and Methodist studies
 	"2291-1731" : "!429708718!", // Wesley and Methodist studies
-	"0066-6386" : "!254074065!", // Archiv für Liturgiewissenschaft
+	"0066-6386" : "!014392348!", // Archiv für Liturgiewissenschaft
 	"2375-6330" : "!42864905X!", // The Asbury Journal
 	"1090-5642" : "!42864905X!", // The Asbury Journal
 	"0265-4539" : "!422847313!", // The Scottish bulletin of evangelical theology
@@ -917,6 +917,7 @@ var languageMapping = {
 	"no" : "nor",
 	"sv" : "swe", 
 	"nld" : "dut",
+	"af" : "afr",
 	
 	
 };
@@ -1966,7 +1967,7 @@ var issnPhysicalFormMapping = {
 	"22911723, 22911731" : "O", // Wesley and Methodist studies
 	"22911723" : "O", // Wesley and Methodist studies
 	"22911731" : "O", // Wesley and Methodist studies
-	"0066-6386" : "O", // Archiv für Liturgiewissenschaft
+	"0066-6386" : "A", // Archiv für Liturgiewissenschaft
 	"2375-6330" : "O", // The Asbury Journal
 	"1090-5642" : "O", // The Asbury Journal
 	"0265-4539" : "O", // The Scottish bulletin of evangelical theology

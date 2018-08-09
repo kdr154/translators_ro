@@ -911,6 +911,7 @@ var languageMapping = {
 	"no" : "nor",
 	"sv" : "swe", 
 	"nld" : "dut",
+	"af" : "afr",
 	
 	
 };
