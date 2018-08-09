@@ -1982,6 +1982,7 @@ var issnPhysicalFormMapping = {
 	"07174675" : "O", // Veritas : Revista de Filosofía y Teología
 	"0717-4675" : "O", // Veritas : Revista de Filosofía y Teología
 	"0718-9273" : "O", // Veritas : Revista de Filosofía y Teología
+	"Tijdschrift voor Theologie" : "O", // Tijdschrift voor Theologie
 
 	
 	
@@ -2421,6 +2422,7 @@ var issnJournalTitleMapping = {
 	"Australasian Catholic Record, The" : "!478317891!", //  The Australasian Catholic record
 	"Réforme, Humanisme, Renaissance" : "!354445103!", // Réforme, humanisme, renaissance
 	"Semitica" : "!453619584!", // Semitica
+	"Tijdschrift voor Theologie" : "!333370279!", // Tijdschrift voor Theologie
 
  
 
