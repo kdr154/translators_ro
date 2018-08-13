@@ -1081,6 +1081,7 @@ var issnLangMapping = {
 	"0717-4675" : "spa", // Veritas : Revista de Filosofía y Teología
 	"0718-9273" : "spa", // Veritas : Revista de Filosofía y Teología
 	"1135-4712" : "spa", // 'Ílu
+	"0340-6083" : "ger", // Göttinger Predigtmeditationen
 
 
 	
