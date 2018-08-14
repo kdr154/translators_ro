@@ -2361,6 +2361,7 @@ var issnSsgMapping = {
 	"2079-7222" : "0", // Indo-Pacific Journal of Phenomenology
 	"2154-7270" : "0", // International Journal of Cultic Studies
 	"0034-3951" : "0; 1", // Religion and Society Print-PPN
+	"2396-9393" : "0; 1", // International bulletin of mission research
 
 	
 	
