@@ -106,8 +106,9 @@ var journalMapping = {
 	"2222-582X" : "!478691874!", // Journal of early Christian history
 	"0018-2710" : "!105214884!", // History of religions
 	"1545-6935" : "!105214884!", // History of religions
-	"0384-9694" : "!014804743!", // Journal of religious ethics
-	"1467-9795" : "!014804743!", // Journal of religious ethics 
+	"0384-9694" : "!090888812!", // Journal of religious ethics
+	"1467-9795" : "!090888812!", // Journal of religious ethics 
+	"03849694" : "!090888812!", // Journal of religious ethics 
 	"0943-3058" : "!026374846!", // Method & theory in the study of religion
 	"1570-0682" : "!026374846!", // Method & theory in the study of religion
 	"1783-1474" : "!054531918!", // INTAMS review
@@ -200,7 +201,7 @@ var journalMapping = {
 	"0141-6200" : "!258360356!", // British journal of religious education
 	"2169-2327, 2169-2335" : "!381266621!", // International journal of philosophy and theology
 	"2169-2327" : "!381266621!", // International journal of philosophy and theology
-	"0890-2461" : "!016231562!", // Philosophy & theology
+	"0890-2461" : "!443081883!", // Philosophy & theology
 	"1476-993X" : "!254675581!", // Currents in biblical research  !! Druckausgabe ausgewertet bis 14. 2015 = genauer: nur 14. 2015, 1
 	"1745-5200" : "!254675581!", // Currents in biblical research 
 	"1476993X" : "!254675581!", // Currents in biblical research
@@ -613,9 +614,9 @@ var journalMapping = {
 	"0014-1437" : "!015178757!", // Estudios Biblicos
 	"1689-8311" : "!477533728!", // European Journal for Philosophy of Religion
 	"0024-5100" : "!014407558!", // Liturgisches Jahrbuch 
-	"1025-6555, 1814-2036" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
-	"1025-6555" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
-	"1814-2036" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
+	"1025-6555, 1814-2036" : "!254675816!", // Mitteilungen zur Christlichen Archäologie
+	"1025-6555" : "!254675816!", // Mitteilungen zur Christlichen Archäologie
+	"1814-2036" : "!254675816!", // Mitteilungen zur Christlichen Archäologie
 	"2565-7348" : "!333370279!", // Tijdschrift voor Theologie
 	"0039-6761" : "!39804595X!", // Svensk teologisk kvartalskrift
 	"0044-3123" : "!014852152!", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
@@ -653,7 +654,7 @@ var journalMapping = {
 	"17494907" : "!274589745!", // Journal for the Study of Religion, Nature and Culture
 	"1534-8423" : "!117513679!", // Journal of Media and Religion
 	"1888-346X" : "!47709774X!", // Bandue: revista de la Sociedad Española de Ciencias de las Religiones
-	"1355-8358" : "!043086950!", // Theology & sexuality
+	"1355-8358" : "!263021289!", // Theology & sexuality
 	"2035-6455" : "!477589960!", // Historia Religionum
 	"1743-2200" : "!273875507!", // Material Religion : The Journal of Objects, Art and Belief 
 	"2049-7555, 2049-7563" : "!360555888!" , // Journal for the Cognitive Science of Religion
@@ -1076,6 +1077,7 @@ var issnLangMapping = {
 	"0718-9273" : "spa", // Veritas : Revista de Filosofía y Teología
 	"1135-4712" : "spa", // 'Ílu
 	"0340-6083" : "ger", // Göttinger Predigtmeditationen
+	
 
 	
 
@@ -1157,8 +1159,9 @@ var issnPhysicalFormMapping = {
 	"2222-582X" : "O", // Journal of early Christian history
 	"0018-2710" : "O", // History of religions
 	"1545-6935" : "O", // History of religions
-	"0384-9694" : "A", // Journal of religious ethics
-	"1467-9795" : "A", // Journal of religious ethics
+	"0384-9694" : "O", // Journal of religious ethics
+	"1467-9795" : "O", // Journal of religious ethics
+	"03849694" : "O", // Journal of religious ethics
 	"0943-3058" : "A", // Method & theory in the study of religion
 	"1570-0682" : "A", // Method & theory in the study of religion
 	"1783-1474" : "A", // INTAMS review
@@ -1252,7 +1255,7 @@ var issnPhysicalFormMapping = {
 	"0141-6200" : "O", // British journal of religious education
 	"2169-2327" : "O", // International journal of philosophy and theology
 	"2169-2335" : "A", // International journal of philosophy and theology
-	"0890-2461" : "A", // Philosophy & theology
+	"0890-2461" : "O", // Philosophy & theology
 	"1476-993X" : "O", // Currents in biblical research  !! Druckausgabe ausgewertet bis 14. 2015 = genauer: nur 14. 2015, 1
 	"1745-5200" : "O", // Currents in biblical research 
 	"1476993X" : "O", // Currents in biblical research 
@@ -1454,7 +1457,7 @@ var issnPhysicalFormMapping = {
 	"10942076, 23255404" : "O", // Near Eastern archaeology !!pppn
 	"13549901" : "O", // Studies in world christianity !!pppn
 	"1354-9901" : "O", // Studies in world christianity !!pppn
-	"1355-8358" : "A", // Theology & sexuality !!pppn
+	"1355-8358" : "O", // Theology & sexuality !!pppn
 	"1363-013X" : "O", // Quaker studies
 	"1363-7320" : "A", // Ecotheology !!pppn
 	"1749-4907" : "O", // Journal for the study of religion, nature and culture 
@@ -1734,7 +1737,7 @@ var issnPhysicalFormMapping = {
 	"00180645" : "A", // Herder Korrespondenz
 	"0014-1437" : "A", // Estudios Biblicos
 	"1689-8311" : "O", // European Journal for Philosophy of Religion
-	"1025-6555, 1814-2036" : "A", // Mitteilungen zur Christlichen Archäologie
+	"1025-6555, 1814-2036" : "O", // Mitteilungen zur Christlichen Archäologie
 	"2565-7348" : "O", // Tijdschrift voor Theologie
 	"0039-6761" : "O", // Svensk teologisk kvartalskrift
 	"0044-3123" : "A", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
@@ -1984,8 +1987,8 @@ var issnPhysicalFormMapping = {
 	"0717-4675" : "O", // Veritas : Revista de Filosofía y Teología
 	"0718-9273" : "O", // Veritas : Revista de Filosofía y Teología
 	"Tijdschrift voor Theologie" : "O", // Tijdschrift voor Theologie
-
-	
+	"African ecclesial review. - Eldoret : Gaba Publications" : "O", // African ecclesial review
+		
 	
 };
 
@@ -2124,6 +2127,7 @@ var issnSsgMapping = {
 	"1545-6935" : "0", // History of religions
 	"0384-9694" : "0; 1", // Journal of religious ethics
 	"1467-9795" : "0; 1", // Journal of religious ethics
+	"03849694" : "0; 1", // Journal of religious ethics
 	"0022-4200" : "0", // Journal of religion in Africa
 	"1570-0666" : "0", // Journal of religion in Africa
 	"1092-6690" : "0", // Nova religio
@@ -2362,7 +2366,6 @@ var issnSsgMapping = {
 	"2154-7270" : "0", // International Journal of Cultic Studies
 	"0034-3951" : "0; 1", // Religion and Society Print-PPN
 	"2396-9393" : "0; 1", // International bulletin of mission research
-
 	
 	
 	
@@ -2425,7 +2428,7 @@ var issnJournalTitleMapping = {
 	"Réforme, Humanisme, Renaissance" : "!354445103!", // Réforme, humanisme, renaissance
 	"Semitica" : "!453619584!", // Semitica
 	"Tijdschrift voor Theologie" : "!333370279!", // Tijdschrift voor Theologie
-
+	"African ecclesial review. - Eldoret : Gaba Publications" : "!016233077!", // African ecclesial review
  
 
 };
