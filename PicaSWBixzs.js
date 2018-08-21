@@ -38,7 +38,6 @@
 
 
 
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -877,6 +876,7 @@ var journalMapping = {
 	"07174675" : "!316279331!", // Veritas : Revista de Filosofía y Teología
 	"0717-4675" : "!316279331!", // Veritas : Revista de Filosofía y Teología
 	"0718-9273" : "!316279331!", // Veritas : Revista de Filosofía y Teología
+	"1266-0078" : "!403254671!", // Revue d'éthique et de théologie morale
 
  
 
@@ -1994,6 +1994,7 @@ var issnPhysicalFormMapping = {
 	"0718-9273" : "O", // Veritas : Revista de Filosofía y Teología
 	"Tijdschrift voor Theologie" : "O", // Tijdschrift voor Theologie
 	"African ecclesial review. - Eldoret : Gaba Publications" : "O", // African ecclesial review
+	"1266-0078" : "O", // Revue d'éthique et de théologie morale
 		
 	
 };
@@ -2372,7 +2373,7 @@ var issnSsgMapping = {
 	"2154-7270" : "0", // International Journal of Cultic Studies
 	"0034-3951" : "0; 1", // Religion and Society Print-PPN
 	"2396-9393" : "0; 1", // International bulletin of mission research
-	
+	"2396-9393" : "0; 1", // International bulletin of mission research
 	
 	
 };
@@ -2588,6 +2589,10 @@ var notes_to_ixtheo_notation = {
 "zd" : "!372053742!",
 "zf" : "!372053718!",
 }
+
+
+
+
 
 
 // ab hier Programmcode
